@@ -20,6 +20,8 @@ To generate a pirate paper wallet and save it as a PDF, run
 
 This will generate 3 shielded z-addresses and their corresponding private keys, and save them in a PDF file called `piratepaper-output.pdf`
 
+![tre](https://user-images.githubusercontent.com/49843358/197702551-a0f1f3d3-0483-4ed3-90f4-61d43e098f18.png)
+
 ## Vanity Addresses
 You can generate a "vanity address" (that is, an address starting with a given prefix) by specifying a `--vanity` argument with the prefix you want.
 
@@ -76,4 +78,7 @@ OPTIONS:
 
 ARGS:
     <output>    Name of output file.
+ 
+    ## Video Tutorial
 ```
+[![Video Tutorial on Youtube](https://img.youtube.com/vi/TZtjA8-ljRY/0.jpg)](https://www.youtube.com/watch?v=TZtjA8-ljRY
